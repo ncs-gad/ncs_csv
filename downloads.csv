@@ -1,6 +1,6 @@
 version,state,pdf,excel
-NCS_v2,Summary State/Region,Summary_Report_SR_2019_08_15.pdf,
-NCS_v2,Summary Township,Summary_Report_Township_2019_08_15.pdf,
+NCS_v2,Summary State/Region,Summary_Report_SR_2019_08_15.pdf,AllStateRegion_Summary_Report_2019_08_21.xlsx
+NCS_v2,Summary Township,Summary_Report_Township_2019_08_15.pdf,TownshipSummary_2019_08_21.xlsx
 NCS_v2,ALL State/Region,All_State_Region_NCS_v2.zip,Myanmar_NCS_v2_Dec2018_GAD_All_StateRegion_2019_08_20.xlsx
 NCS_v2,Ayeyarwady,Ayeyarwady_NCS_v2.zip,Myanmar_NCS_v2_Dec2018_GAD_Ayeyarwady_2019_08_20.XLSX
 NCS_v2,Bago,Bago_NCS_v2.zip,Myanmar_NCS_v2_Dec2018_GAD_Bago_2019_08_20.XLSX
